@@ -1,0 +1,7 @@
+{
+  "name": "Portainfo",
+  "description": "A feature-rich blog platform with social interactions, direct messaging, and AI-powered text-to-speech for posts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
